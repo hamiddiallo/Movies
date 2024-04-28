@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "L'Étrange Histoire de Benjamin Button",
+    "release": 2008,
+    "synopsis": "Un homme naît vieux et rajeunit au fil du temps, vivant une existence hors du commun."
+  },
+  {
+    "id": 2,
+    "title": "Inception",
+    "release": 2010,
+    "synopsis": "Un voleur d'informations entre dans les rêves de ses cibles pour voler leurs secrets les plus précieux."
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "release": 2014,
+    "synopsis": "Un groupe d'explorateurs entreprend un voyage interstellaire pour trouver une nouvelle planète habitable pour l'humanité."
+  },
+  {
+    "id": 4,
+    "title": "Fight Club",
+    "release": 1999,
+    "synopsis": "Un homme déçu par la société crée un club clandestin où les hommes se battent pour exprimer leur masculinité réprimée."
+  },
+  {
+    "id": 5,
+    "title": "Matrix",
+    "release": 1999,
+    "synopsis": "Un programmeur découvre que le monde qu'il pense connaître est en fait une simulation informatique."
+  }
+]

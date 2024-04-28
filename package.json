@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2",
+    "morgan": "^1.10.0"
+  },
+  "scripts": {
+    "nodemon": "nodemon server.js"
+  },
+  "name": "tp_express",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
